@@ -1,6 +1,40 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 VibeFinanças - Organize sua vida financeira com IA
+PRD refinado no Copilot Web:
+O **VibeFinanças** é um aplicativo de organização de finanças pessoais que utiliza Inteligência Artificial para ajudar usuários a controlar gastos, entender hábitos financeiros e tomar decisões mais conscientes sobre dinheiro.
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+## Objetivo
+Permitir que o usuário:
+* Registre receitas e despesas
+* Visualize padrões de consumo
+* Receba análises e dicas financeiras personalizadas com IA
+
+## Público-Alvo
+Pessoas que desejam melhorar sua organização financeira, sem necessidade de conhecimento técnico ou financeiro avançado.
+
+## Funcionalidades Principais
+* Cadastro simples com renda mensal
+* Registro de receitas e despesas por categoria
+* Análise financeira automática com IA
+* Criação de metas financeiras
+* Assistente financeiro em formato de chat
+
+## Uso da Inteligência Artificial
+A IA é usada para classificar despesas, identificar padrões de consumo, gerar resumos financeiros e fornecer recomendações personalizadas.
+
+## Prompt Principal da IA
+"Você é um assistente financeiro pessoal.
+Analise minha renda mensal e minhas despesas categorizadas.
+Identifique padrões de consumo e possíveis excessos.
+Gere um resumo simples da minha situação financeira e forneça
+3 dicas práticas para melhorar minha organização financeira."
+
+## Conclusão
+O VibeFinanças aplica Inteligência Artificial de forma prática para resolver um problema real do dia a dia, seguindo o conceito de Vibe Coding e foco na experiência do usuário.
+
+Interações:
+>Olá, estou precisando de uma maõzinha para criar um app, poderia me ajudar com isto?
+>Crie um app de organização de finanças pessoais com Vibe Coding.
+>Envie o prd do nosso app como um snippet txt? Além disso, use apenas markdow simples para formatar, nada de emojis, pr favor.
 
 ## ✨ O que é Vibe Coding
 
@@ -70,20 +104,12 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 
 ### 3. Entregando o Desafio na DIO
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
+## Reflexão
+O desenvolvimento do VibeFinanças demonstra como a Inteligência Artificial pode ser aplicada de forma acessível para resolver problemas reais, como a falta de organização financeira.
+Mais do que automatizar cálculos, o uso da IA no app tem o papel de orientar o usuário, promover educação financeira e incentivar escolhas mais conscientes. Esse projeto evidencia o potencial da IA como uma aliada no cotidiano, quando utilizada com foco em utilidade, simplicidade e impacto positivo na vida das pessoas.
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
+## Resumo e conclusão
+O VibeFinanças é um aplicativo de organização de finanças pessoais que utiliza Inteligência Artificial para ajudar usuários a registrar receitas e despesas, identificar padrões de consumo e melhorar o controle financeiro.
+Por meio de análises automáticas e de um assistente financeiro em formato de chat, o app transforma dados financeiros simples em informações claras e dicas práticas, facilitando a tomada de decisões no dia a dia.
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
