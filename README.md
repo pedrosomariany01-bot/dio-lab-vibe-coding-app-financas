@@ -8,7 +8,7 @@ Permitir que o usuário:
 * Visualize padrões de consumo
 * Receba análises e dicas financeiras personalizadas com IA
 
-## Público-Alvo
+## Público - Alvo
 Pessoas que desejam melhorar sua organização financeira, sem necessidade de conhecimento técnico ou financeiro avançado.
 
 ## Funcionalidades Principais
