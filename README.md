@@ -108,7 +108,7 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 O desenvolvimento do VibeFinanças demonstra como a Inteligência Artificial pode ser aplicada de forma acessível para resolver problemas reais, como a falta de organização financeira.
 Mais do que automatizar cálculos, o uso da IA no app tem o papel de orientar o usuário, promover educação financeira e incentivar escolhas mais conscientes. Esse projeto evidencia o potencial da IA como uma aliada no cotidiano, quando utilizada com foco em utilidade, simplicidade e impacto positivo na vida das pessoas.
 
-## Resumo e conclusão
+## Resumo e Conclusão
 O VibeFinanças é um aplicativo de organização de finanças pessoais que utiliza Inteligência Artificial para ajudar usuários a registrar receitas e despesas, identificar padrões de consumo e melhorar o controle financeiro.
 Por meio de análises automáticas e de um assistente financeiro em formato de chat, o app transforma dados financeiros simples em informações claras e dicas práticas, facilitando a tomada de decisões no dia a dia.
 
